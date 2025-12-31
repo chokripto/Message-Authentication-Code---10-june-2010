@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp codebase="file:/C:/Users/Choukri/Desktop/Finale/Application/dist/" href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>testt</title>
+        <vendor>choukri</vendor>
+        <homepage href=""/>
+        <description>testt</description>
+        <description kind="short">testt</description>
+
+
+    </information>
+
+    <resources>
+<j2se version="1.5+"/>
+<jar eager="true" href="Projet_MAC.jar" main="true"/>
+
+
+    <jar href="lib/swing-layout-1.0.3.jar"/>
+</resources>
+    <application-desc main-class="MAC.Main">
+
+    </application-desc>
+</jnlp>
